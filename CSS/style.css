@@ -10,10 +10,7 @@ body {
 }
 
 .container {
-  padding-top: 50px;
-  padding-bottom: 150px;
-  padding-left: 20px;
-  padding-right: 20px;
+  padding: 20px;
 }
 .container h1 {
   text-align: center;
@@ -58,4 +55,29 @@ body {
   color: #fff;
   font-weight: 500;
   text-transform: uppercase;
+}
+
+.review h1 {
+  color: #000;
+  font-size: 32px;
+  font-weight: 400;
+  text-align: left;
+}
+.review button {
+  background-color: #3F513D;
+  padding: 8px 20px;
+  border: none;
+  width: 100%;
+}
+.review button a {
+  text-decoration: none;
+  color: #fff;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+.review h5 {
+  font-size: 16px;
+  text-decoration: underline;
+  color: #3F513D;
+  font-weight: 600;
 }/*# sourceMappingURL=style.css.map */
